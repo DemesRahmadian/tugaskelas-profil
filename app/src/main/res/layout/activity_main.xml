@@ -187,7 +187,7 @@
                 <com.google.android.material.textfield.TextInputEditText
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:drawableLeft="@drawable/user"
+                    android:drawableLeft="@drawable/ic_baseline_brightness_low_24"
                     android:drawablePadding="10dp"
                     android:text="Prob, 08 Agustus 2000" />
 
@@ -203,7 +203,7 @@
                 <com.google.android.material.textfield.TextInputEditText
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:drawableLeft="@drawable/user"
+                    android:drawableLeft="@drawable/ic_baseline_email_24"
                     android:drawablePadding="10dp"
                     android:text="demesrahmadian2000@gmail.com" />
 
@@ -219,7 +219,7 @@
                 <com.google.android.material.textfield.TextInputEditText
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:drawableLeft="@drawable/user"
+                    android:drawableLeft="@drawable/ic_baseline_person_add_alt_1_24"
                     android:drawablePadding="10dp"
                     android:text="Rahma dian" />
 
@@ -227,7 +227,7 @@
 
             <com.google.android.material.textfield.TextInputLayout
                 android:layout_width="match_parent"
-                android:layout_height="match_parent"
+                android:layout_height="wrap_content"
                 android:layout_marginBottom="10dp"
                 android:hint="INSTAGRAM">
 
@@ -235,7 +235,7 @@
                 <com.google.android.material.textfield.TextInputEditText
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:drawableLeft="@drawable/user"
+                    android:drawableLeft="@drawable/ic_baseline_person_add_alt_1_24"
                     android:drawablePadding="10dp"
                     android:text="ini_dhiane" />
             </com.google.android.material.textfield.TextInputLayout>
